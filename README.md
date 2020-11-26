@@ -57,13 +57,13 @@
 
 
 ### 4. Methods:
-- Finalize the dataset of the dates that will contain the name of the events, the dates for the 3 years (2008 to 2010) we have data on.
-- We delimit continents Europe, Asia, North America, Australia, Africa and South America by latitudes and longitudes.
-- We define each user’s origin by the continent his home is located in.
-- We plot the distribution of how far people travel from their home.
-- For each special event and each continent, we find how far from their home people tend to travel. 
-- We then calculate the ratio between the two distributions and display it using appropriate visualization the modification of mobility per continent on those special days. Thus, we compare travel and mobility patterns on the events considered compared to the rest of the year.
-- Analysis of our results and conclusions.
+1. Finalize the dataset of the dates that will contain the name of the events, the dates for the 3 years (2008 to 2010) we have data on.
+2. We delimit continents Europe, Asia, North America, Australia, Africa and South America by latitudes and longitudes.
+3. We define each user’s origin by the continent his home is located in.
+4. We plot the distribution of how far people travel from their home.
+5. For each special event and each continent, we find how far from their home people tend to travel. 
+6. We then calculate the ratio between the two distributions and display it using appropriate visualization the modification of mobility per continent on those special days. Thus, we compare travel and mobility patterns on the events considered compared to the rest of the year.
+7. Analysis of our results and conclusions.
 
 ### 5. Proposed Timeline:
 - 28/11-30/12 : Finalize the dataset containing the major events
@@ -89,4 +89,8 @@
   - Make the report
   - Shoot the 2 min video
 
-
+### 7. Questions for TAs:
+- Does this extension seem feasible in the allocated time?
+- Is our constructed dataset diverse enough?
+- Is the ratio (in point 4.6) a good way to evaluate the impact of the events on the distributions?
+- Is our proposal a coherent extension of the original paper?
