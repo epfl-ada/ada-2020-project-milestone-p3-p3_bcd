@@ -14,24 +14,24 @@ Labour Thanksgiving day;20/11/2010;23/11/2010;False;True;False;False;False;False
 New Year Eve;31/12/2008;01/01/2009;True;True;True;True;True;True;True;Cultural Event
 New Year Eve;31/12/2009;01/01/2010;True;True;True;True;True;True;True;Cultural Event
 New Year Eve;31/12/2010;01/01/2011;True;True;True;True;True;True;True;Cultural Event
-Halloween;31/10/2008;02/10/2008;True;False;True;True;True;True;True;Cultural Event
-Halloween;31/10/2009;01/10/2009;True;False;True;True;True;True;True;Cultural Event
+Halloween;31/10/2008;02/11/2008;True;False;True;True;True;True;True;Cultural Event
+Halloween;31/10/2009;01/11/2009;True;False;True;True;True;True;True;Cultural Event
 Halloween;30/10/2010;31/10/2010;True;False;True;True;True;True;True;Cultural Event
 USA election;02/11/2004;02/11/2004;True;False;False;False;False;False;False;Major Political Event
-USA election;04/11/2008;04/11/2008;True;False;False;False;False;False;False;Major Political Event
+USA election;03/11/2008;04/11/2008;True;False;False;False;False;False;False;Major Political Event
 USA election;06/11/2012;06/11/2012;True;False;False;False;False;False;False;Major Political Event
 USA National Day;04/07/2008;06/07/2008;True;False;False;False;False;False;False;National Day
 USA National Day;03/07/2009;05/07/2009;True;False;False;False;False;False;False;National Day
 USA National Day;02/07/2010;04/07/2010;True;False;False;False;False;False;False;National Day
 Japan National Day;09/02/2008;11/02/2008;False;True;False;False;False;False;False;National Day
-Japan National Day;11/02/2009;11/02/2009;False;True;False;False;False;False;False;National Day
-Japan National Day;11/02/2010;11/02/2010;False;True;False;False;False;False;False;National Day
+Japan National Day;10/02/2009;11/02/2009;False;True;False;False;False;False;False;National Day
+Japan National Day;10/02/2010;11/02/2010;False;True;False;False;False;False;False;National Day
 Spain National Day;10/10/2008;12/10/2008;False;False;True;False;False;False;False;National Day
 Spain National Day;09/10/2009;12/10/2009;False;False;True;False;False;False;False;National Day
 Spain National Day;12/10/2010;12/10/2010;False;False;True;False;False;False;False;National Day
 France National Day;11/07/2008;14/07/2008;False;False;False;True;False;False;False;National Day
-France National Day;14/07/2009;14/07/2009;False;False;False;True;False;False;False;National Day
-France National Day;14/07/2010;14/07/2010;False;False;False;True;False;False;False;National Day
+France National Day;13/07/2009;14/07/2009;False;False;False;True;False;False;False;National Day
+France National Day;13/07/2010;14/07/2010;False;False;False;True;False;False;False;National Day
 Germany National Day;03/10/2008;05/10/2008;False;False;False;False;False;True;False;National Day
 Germany National Day;02/10/2009;04/10/2009;False;False;False;False;False;True;False;National Day
 Germany National Day;01/10/2010;03/10/2010;False;False;False;False;False;True;False;National Day
@@ -39,8 +39,8 @@ Summer Solstice;20/06/2008;22/06/2008;False;False;False;False;False;False;True;C
 Summer Solstice;19/06/2009;21/06/2009;False;False;False;False;False;False;True;Cultural Event
 Summer Solstice;21/06/2010;21/06/2010;False;False;False;False;False;False;True;Cultural Event
 Saint Patrick Day;15/03/2008;17/03/2008;True;False;False;False;True;False;False; Religious Celebration
-Saint Patrick Day;17/03/2009;17/03/2009;True;False;False;False;True;False;False; Religious Celebration
-Saint Patrick Day;17/03/2010;17/03/2010;True;False;False;False;True;False;False;Religious Celebration
+Saint Patrick Day;16/03/2009;17/03/2009;True;False;False;False;True;False;False; Religious Celebration
+Saint Patrick Day;16/03/2010;17/03/2010;True;False;False;False;True;False;False;Religious Celebration
 Soccer World Championship;09/06/2006;09/07/2006;True;True;True;True;True;True;True;Major Sports Event
 Soccer World Championship;11/06/2010;11/07/2010;True;True;True;True;True;True;True;Major Sports Event
 Soccer World Championship;12/06/2014;12/07/2014;True;True;True;True;True;True;True;Major Sports Event
@@ -54,11 +54,11 @@ Winter Olympic Games;10/02/2006;26/02/2006;True;True;True;True;True;True;True;Ma
 Winter Olympic Games;12/02/2010;28/02/2010;True;True;True;True;True;True;True;Major Sports Event
 Winter Olympic Games;07/02/2014;23/02/2014;True;True;True;True;True;True;True;Major Sports Event
 International Day Of Commemoration in Memory of the Victims of the Holocaust;26/01/2008;27/01/2008;True;False;True;True;True;True;True;Cultural & Social Event
-International Day Of Commemoration in Memory of the Victims of the Holocaust;27/01/2009;27/01/2009;True;False;True;True;True;True;True;Cultural & Social Event
-International Day Of Commemoration in Memory of the Victims of the Holocaust;27/01/2010;27/01/2010;True;False;True;True;True;True;True;Cultural & Social Event
+International Day Of Commemoration in Memory of the Victims of the Holocaust;26/01/2009;27/01/2009;True;False;True;True;True;True;True;Cultural & Social Event
+International Day Of Commemoration in Memory of the Victims of the Holocaust;26/01/2010;27/01/2010;True;False;True;True;True;True;True;Cultural & Social Event
 International Day For Women's Righs;08/03/2008;09/03/2008;True;True;True;True;True;True;True;Cultural & Social Event
-International Day For Women's Righs;08/03/2009;08/03/2009;True;True;True;True;True;True;True;Cultural & Social Event
-International Day For Women's Righs;08/03/2010;08/03/2010;True;True;True;True;True;True;True;Cultural & Social Event
-Super Bowl;03/02/2008;03/02/2008;True;False;False;False;False;False;False;Major Sports Event
-Super Bowl;01/02/2009;01/02/2009;True;False;False;False;False;False;False;Major Sports Event
+International Day For Women's Righs;07/03/2009;08/03/2009;True;True;True;True;True;True;True;Cultural & Social Event
+International Day For Women's Righs;07/03/2010;08/03/2010;True;True;True;True;True;True;True;Cultural & Social Event
+Super Bowl;02/02/2008;03/02/2008;True;False;False;False;False;False;False;Major Sports Event
+Super Bowl;31/01/2009;01/02/2009;True;False;False;False;False;False;False;Major Sports Event
 Super Bowl;07/02/2010;08/02/2010;True;False;False;False;False;False;False;Major Sports Event
