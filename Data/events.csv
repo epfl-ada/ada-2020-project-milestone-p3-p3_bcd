@@ -1,7 +1,7 @@
-;Unnamed: 0;name;type;beginning;end;year
-0;0;Christmas and New Year Eve;Religious and cultural event;2008-12-20;2009-01-02;2008
-1;1;Christmas and New Year Eve;Religious and cultural event;2009-12-19;2010-01-02;2009
-2;2;USA National Day;Cultural Event;2008-06-27;2008-07-07;2008
-3;3;USA National Day;Cultural Event;2009-06-26;2009-07-06;2009
-4;4;USA National Day;Cultural Event;2010-06-27;2010-07-07;2010
-5;5;Winter Olympic Games;Major Sport Event;2010-02-12;2010-02-28;2010
+;Unnamed: 0;Unnamed: 0.1;name;type;beginning;end;year
+0;0;0;Christmas and New Year Eve;Religious and cultural event;2008-12-20;2009-01-02;2008
+1;1;1;Christmas and New Year Eve;Religious and cultural event;2009-12-19;2010-01-02;2009
+2;2;2;USA National Day;Cultural Event;2008-06-27;2008-07-07;2008
+3;3;3;USA National Day;Cultural Event;2009-06-26;2009-07-06;2009
+4;4;4;USA National Day;Cultural Event;2010-06-27;2010-07-07;2010
+5;5;5;Winter Olympic Games;Major Sport Event;2010-02-12;2010-02-28;2010
